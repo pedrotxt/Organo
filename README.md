@@ -78,6 +78,6 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 <p>Feito por <a href='https://www.instagram.com/vinicios_neves/'>Vinny Neves</a> no curso React Desenvolvendo com Javascript pela <a href='https://www.alura.com.br/'> Alura</p> .<br/>
 <p>Entre em contato comigo 👇
 
-[![Gmail Badge](https://img.shields.io/badge/-mlrj.junior%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlrj.junior@gmail.com)](mailto:mlrj.junior@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlrjunior/)](https://www.linkedin.com/in/mlrjunior/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-p/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pehhp2021@gmail.com)
 </p>
